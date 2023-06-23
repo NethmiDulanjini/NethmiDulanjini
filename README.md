@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nethmi Dulanjini</h1>
 <h3 align="center">Enthusiastic Undergraduate at the University of Moratuwa | Passionate about Technology and Software Development</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/scaler-create-impact-coding-programming-chill-gif-24991316">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nethmidulanjini&label=Profile%20views&color=0e75b6&style=flat" alt="nethmidulanjini" /> </p>
 
