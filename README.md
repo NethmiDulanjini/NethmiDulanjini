@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS,Node.JS**
 
-- 📫 How to reach me **dulanjini4lk@gmail.co**
+- 📫 How to reach me **dulanjini4lk@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
